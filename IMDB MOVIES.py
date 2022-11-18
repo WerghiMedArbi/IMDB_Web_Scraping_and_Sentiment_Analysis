@@ -5,12 +5,13 @@ from openpyxl.workbook import Workbook
 
 
 wb = Workbook()
- 
+
 ws1 = wb.create_sheet("Sheet_A")
 ws1.title = "IMDB Movies"
- 
+ws1.append(['rank','Name','Year','Rating','Metascore','Runtime','Genre','Votes']) 
 ws2 = wb.create_sheet("Sheet_B", 0)
 ws2.title = "IMDB Reviews"
+ws2.append(['Titre','Username','Rate','Review','Content'])
 
 try:
     
@@ -34,7 +35,7 @@ try:
         for movie in movies:
             review_link = 'https://www.imdb.com'+movie.find('h3', class_= "lister-item-header").a.get('href')
             
-            urlreview = review_link + "reviews?ref_=tt_ov_rt"
+            urlreview = review_link + "reviews?sort=totalVotes&dir=desc&ratingFilter=0"
                     
             source = requests.get(urlreview)
             
