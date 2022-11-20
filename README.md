@@ -6,7 +6,7 @@ feel free to use if you're interested.
 For this project, we have recovered data from any specific product
 available on Sci-Fi Movies from IMDB (https://www.imdb.com/).
 we conducted a sentiment analysis and statistical analysis necessary to draw relevant conclusions.
-<h4>Two Models are used:</h4>
+<h3>Two Models are used:</h3>
 <h5>MULTINOMIAL NAIVE BAYES</h5>
 
 It provides an alternative to the "heavy" 
