@@ -20,6 +20,12 @@ In the simplest terms, term frequency is the ratio of the number of target terms
 
 [0.20, 0.20, 0.20, 0.20, 0.20]
 
+
+
+
+
+
+
 IDF (Inverse Documet Frequency)
 The IDF value is the logarithm of the ratio of the total number of documents to the number of documents in which the target term occurs. At this stage, it does not matter how many times the term appears in the document. It is sufficient to determine whether it has passed or not. In this example, the base value of the logarithm to be taken is determined as 10. However, there is no problem in using different values.
 
@@ -57,3 +63,17 @@ P(B|A) = occurrence of predictor B given class A probability
 This formula helps in calculating the probability of the tags in the text.
 
 https://www.upgrad.com/blog/multinomial-naive-bayes-explained/
+-----**********************--******************************************************************
+Why is Sentiment Analysis difficult to perform?
+Though it may seem easy on paper, Sentiment Analysis is a tricky subject. A text may contain multiple sentiments all at once. For instance,
+
+“The acting was good , but the movie could have been better”
+
+The above sentence consists of two polarities!!!
+
+VADER
+VADER ( Valence Aware Dictionary for Sentiment Reasoning) is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion. It is available in the NLTK package and can be applied directly to unlabeled text data.
+
+VADER sentimental analysis relies on a dictionary that maps lexical features to emotion intensities known as sentiment scores. The sentiment score of a text can be obtained by summing up the intensity of each word in the text.
+
+For example- Words like ‘love’, ‘enjoy’, ‘happy’, ‘like’ all convey a positive sentiment. Also VADER is intelligent enough to understand the basic context of these words, such as “did not love” as a negative statement. It also understands the emphasis of capitalization and punctuation, such as “ENJOY”
