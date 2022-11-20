@@ -12,7 +12,11 @@ we conducted a sentiment analysis and statistical analysis necessary to draw rel
 
 1- Web scrapping from https://www.imdb.com/ based on Beautiful Soup(Python’s open-source library)
 and saving the data collected as an excel file.
+
+
 2- Data Cleaning for the data collected
+
+
 3- Applying an algorithm for analyzing feelings through comments obtainedfor a film.
 
 <h3>Conclusion</h3>
