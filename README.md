@@ -23,7 +23,7 @@ It is a model used for text sentiment analysis that is sensitive to both polarit
 
 <h3>steps:</h3>
 
-1- Web scrapping from https://www.imdb.com/ based on Beautiful Soup(Python’s open-source library)
+1- Web scrapping from (https://www.imdb.com/) based on Beautiful Soup(Python’s open-source library)
 and saving the data collected as an excel file.
 
 
