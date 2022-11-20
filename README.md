@@ -14,7 +14,7 @@ we conducted a sentiment analysis and statistical analysis necessary to draw rel
 and saving the data collected as an excel file.
 
 
-2- Data Cleaning for the data collected
+2- Data Visualisation and Data Cleaning 
 
 
 3- Applying an algorithm for analyzing feelings through comments obtainedfor a film.
