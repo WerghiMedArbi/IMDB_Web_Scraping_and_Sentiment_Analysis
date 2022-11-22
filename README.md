@@ -6,6 +6,8 @@ feel free to use if you're interested.
 For this project, we have recovered data from Sci-Fi Movies from[ IMDB](https://www.imdb.com/).
 we conducted a sentiment analysis and the statistical analysis necessary to draw relevant conclusions.
 <h3>Two Models were used:</h3>
+
+
 - <h5>MULTINOMIAL NAIVE BAYES:</h5>
 It provides an alternative to the "heavy" 
 AI-based semantic analysis and drastically simplifies textual data classification.
