@@ -1,5 +1,5 @@
 <h1>Project</h1>
-This is just a small project we worked on for university. 
+This is just a project we worked on for university. 
 feel free to use if you're interested.
 
 <h3>Description:</h3>
