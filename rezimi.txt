@@ -45,10 +45,10 @@ Thus, both TF and IDF values ​​were obtained. If vectorization is created wi
 ***********************************************************************************************
 a multinominal naïve bayes model:
 Multinomial Naïve Bayes Classifiers
-The multinomial naïve Bayes is widely used for assigning documents to classes based on 
-the statistical analysis of their contents. It provides an alternative to the "heavy" 
+The multinomial naïve Bayes is widely used for assigning documents to classes based on
+the statistical analysis of their contents. It provides an alternative to the "heavy"
 AI-based semantic analysis and drastically simplifies textual data classification.
-It calculates the probability of each tag for a given sample and then gives the tag with the highest 
+It calculates the probability of each tag for a given sample and then gives the tag with the highest
 probability as output.
 P(A|B) = P(A) * P(B|A)/P(B)
 
@@ -68,7 +68,6 @@ Why is Sentiment Analysis difficult to perform?
 Though it may seem easy on paper, Sentiment Analysis is a tricky subject. A text may contain multiple sentiments all at once. For instance,
 
 “The acting was good , but the movie could have been better”
-
 The above sentence consists of two polarities!!!
 
 VADER

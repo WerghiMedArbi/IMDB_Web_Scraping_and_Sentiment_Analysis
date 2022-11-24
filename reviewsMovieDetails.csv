@@ -1,0 +1,997 @@
+rank,Name,Year,Rating,Metascore,Runtime,Genre,Votes
+1,Black Panther: Wakanda Forever,2022,"
+
+7.3
+",67        ,161 min,"Action, Adventure, Drama","86,150"
+2,Black Adam,2022,"
+
+6.9
+",41        ,125 min,"Action, Adventure, Fantasy","128,042"
+3,Black Panther,2018,"
+
+7.3
+",88        ,134 min,"Action, Adventure, Sci-Fi","763,243"
+4,Nope,2022,"
+
+6.9
+",77        ,130 min,"Horror, Mystery, Sci-Fi","160,073"
+5,Everything Everywhere All at Once,2022,"
+
+8.1
+",81        ,139 min,"Action, Adventure, Comedy","239,078"
+6,Thor: Love and Thunder,2022,"
+
+6.3
+",57        ,118 min,"Action, Adventure, Comedy","311,271"
+7,Strange World,2022,"
+
+5.2
+",66        ,102 min,"Animation, Action, Adventure",375
+8,Yashoda,2022,"
+
+8.6
+",,135 min,"Action, Sci-Fi, Thriller","5,562"
+9,Avatar,2009,"
+
+7.8
+",83        ,162 min,"Action, Adventure, Fantasy","1,245,814"
+10,Spider-Man: No Way Home,2021,"
+
+8.3
+",71        ,148 min,"Action, Adventure, Fantasy","745,082"
+11,Interstellar,2014,"
+
+8.6
+",74        ,169 min,"Adventure, Drama, Sci-Fi","1,810,164"
+12,Dune: Part One,2021,"
+
+8.0
+",74        ,155 min,"Action, Adventure, Drama","625,608"
+13,Rogue One,2016,"
+
+7.8
+",65        ,133 min,"Action, Adventure, Sci-Fi","634,344"
+14,Avengers: Endgame,2019,"
+
+8.4
+",78        ,181 min,"Action, Adventure, Drama","1,119,073"
+15,Morbius,2022,"
+
+5.2
+",35        ,104 min,"Action, Adventure, Horror","120,049"
+16,Doctor Strange in the Multiverse of Madness,2022,"
+
+6.9
+",60        ,126 min,"Action, Adventure, Fantasy","405,107"
+17,Jurassic World: Dominion,2022,"
+
+5.7
+",38        ,147 min,"Action, Adventure, Sci-Fi","149,436"
+18,Inception,2010,"
+
+8.8
+",74        ,148 min,"Action, Adventure, Sci-Fi","2,336,378"
+19,Aquaman,2018,"
+
+6.8
+",55        ,143 min,"Action, Adventure, Fantasy","473,219"
+20,Prey,2022,"
+
+7.2
+",71        ,99 min,"Action, Adventure, Drama","184,027"
+21,Crimes of the Future,2022,"
+
+5.9
+",67        ,107 min,"Drama, Horror, Sci-Fi","26,584"
+22,Blade Runner 2049,2017,"
+
+8.0
+",81        ,164 min,"Action, Drama, Mystery","568,525"
+23,Oblivion,2013,"
+
+7.0
+",54        ,124 min,"Action, Adventure, Sci-Fi","526,323"
+24,Eternals,2021,"
+
+6.3
+",52        ,156 min,"Action, Adventure, Fantasy","338,788"
+25,The Hunger Games,2012,"
+
+7.2
+",68        ,142 min,"Action, Adventure, Sci-Fi","917,000"
+26,Avengers: Infinity War,2018,"
+
+8.4
+",68        ,149 min,"Action, Adventure, Sci-Fi","1,071,428"
+27,DC League of Super-Pets,2022,"
+
+7.3
+",56        ,105 min,"Animation, Action, Adventure","61,089"
+28,Tenet,2020,"
+
+7.3
+",69        ,150 min,"Action, Sci-Fi, Thriller","499,937"
+29,Back to the Future,1985,"
+
+8.5
+",87        ,116 min,"Adventure, Comedy, Sci-Fi","1,198,103"
+30,Spider-Man,2002,"
+
+7.4
+",73        ,121 min,"Action, Adventure, Sci-Fi","815,633"
+31,R.I.P.D.,2013,"
+
+5.6
+",25        ,96 min,"Action, Adventure, Comedy","134,662"
+32,Don't Look Up,2021,"
+
+7.2
+",49        ,138 min,"Comedy, Drama, Sci-Fi","532,707"
+33,The Matrix,1999,"
+
+8.7
+",73        ,136 min,"Action, Sci-Fi","1,903,209"
+34,X,1963,"
+
+6.6
+",,79 min,"Horror, Sci-Fi, Thriller","7,473"
+35,The Suicide Squad,2021,"
+
+7.2
+",72        ,132 min,"Action, Adventure, Comedy","348,549"
+36,Free Guy,2021,"
+
+7.1
+",62        ,115 min,"Action, Adventure, Comedy","366,988"
+37,Deadpool,2016,"
+
+8.0
+",65        ,108 min,"Action, Adventure, Comedy","1,032,992"
+38,Guardians of the Galaxy,2014,"
+
+8.0
+",76        ,121 min,"Action, Adventure, Comedy","1,173,331"
+39,Ghostbusters,1984,"
+
+7.8
+",71        ,105 min,"Action, Comedy, Fantasy","415,971"
+40,Deadpool 2,2018,"
+
+7.7
+",66        ,119 min,"Action, Adventure, Comedy","580,095"
+41,A Clockwork Orange,1971,"
+
+8.3
+",77        ,136 min,"Crime, Sci-Fi","828,047"
+42,Alien,1979,"
+
+8.5
+",89        ,117 min,"Horror, Sci-Fi","879,280"
+43,Samaritan,2022,"
+
+5.7
+",45        ,102 min,"Action, Drama, Fantasy","43,293"
+44,Black Widow,2021,"
+
+6.7
+",67        ,134 min,"Action, Adventure, Sci-Fi","375,585"
+45,About Time,2013,"
+
+7.8
+",55        ,123 min,"Comedy, Drama, Fantasy","350,581"
+46,Ghostbusters: Afterlife,2021,"
+
+7.1
+",45        ,124 min,"Adventure, Comedy, Fantasy","180,882"
+47,Guardians of the Galaxy Vol. 2,2017,"
+
+7.6
+",67        ,136 min,"Action, Adventure, Comedy","678,274"
+48,Zack Snyder's Justice League,2021,"
+
+8.0
+",54        ,242 min,"Action, Adventure, Fantasy","396,071"
+49,Jurassic Park,1993,"
+
+8.2
+",68        ,127 min,"Action, Adventure, Sci-Fi","984,955"
+50,The Prestige,2006,"
+
+8.5
+",66        ,130 min,"Drama, Mystery, Sci-Fi","1,326,790"
+51,Star Wars,1977,"
+
+8.6
+",90        ,121 min,"Action, Adventure, Fantasy","1,358,908"
+52,Eternal Sunshine of the Spotless Mind,2004,"
+
+8.3
+",89        ,108 min,"Drama, Romance, Sci-Fi","1,004,105"
+53,Moonfall,2022,"
+
+5.1
+",41        ,130 min,"Action, Adventure, Sci-Fi","76,668"
+54,Mad Max: Fury Road,2015,"
+
+8.1
+",90        ,120 min,"Action, Adventure, Sci-Fi","998,089"
+55,Blade Runner,1982,"
+
+8.1
+",84        ,117 min,"Action, Drama, Sci-Fi","767,674"
+56,The Avengers,2012,"
+
+8.0
+",69        ,143 min,"Action, Adventure, Sci-Fi","1,386,484"
+57,Suicide Squad,2016,"
+
+5.9
+",40        ,123 min,"Action, Adventure, Fantasy","685,043"
+58,Arrival,2016,"
+
+7.9
+",81        ,116 min,"Drama, Mystery, Sci-Fi","692,097"
+59,Iron Man,2008,"
+
+7.9
+",79        ,126 min,"Action, Adventure, Sci-Fi","1,055,396"
+60,Spider-Man: Into the Spider-Verse,2018,"
+
+8.4
+",87        ,117 min,"Animation, Action, Adventure","523,680"
+61,Captain America: The First Avenger,2011,"
+
+6.9
+",66        ,124 min,"Action, Adventure, Sci-Fi","843,260"
+62,Significant Other,2022,"
+
+5.7
+",57        ,84 min,"Drama, Mystery, Sci-Fi","5,256"
+63,Minions: The Rise of Gru,2022,"
+
+6.6
+",56        ,87 min,"Animation, Adventure, Comedy","61,513"
+64,The Matrix Resurrections,2021,"
+
+5.7
+",63        ,148 min,"Action, Sci-Fi","248,103"
+65,The Friendship Game,2022,"
+
+3.5
+",,87 min,Sci-Fi,335
+66,Synchronic,2019,"
+
+6.2
+",64        ,102 min,"Crime, Drama, Horror","31,685"
+67,Donnie Darko,2001,"
+
+8.0
+",88        ,113 min,"Drama, Mystery, Sci-Fi","800,499"
+68,Ready Player One,2018,"
+
+7.4
+",64        ,140 min,"Action, Adventure, Sci-Fi","435,538"
+69,Spiderhead,2022,"
+
+5.4
+",54        ,106 min,"Action, Crime, Drama","55,327"
+70,Man of Steel,2013,"
+
+7.1
+",55        ,143 min,"Action, Adventure, Sci-Fi","770,777"
+71,The Terminator,1984,"
+
+8.1
+",84        ,107 min,"Action, Sci-Fi","862,827"
+72,V for Vendetta,2005,"
+
+8.2
+",62        ,132 min,"Action, Drama, Sci-Fi","1,119,690"
+73,Shang-Chi and the Legend of the Ten Rings,2021,"
+
+7.4
+",71        ,132 min,"Action, Adventure, Fantasy","378,102"
+74,Splice,2009,"
+
+5.8
+",66        ,104 min,"Horror, Sci-Fi","98,142"
+75,Sonic the Hedgehog 2,2022,"
+
+6.5
+",47        ,122 min,"Action, Adventure, Comedy","65,156"
+76,Thor: Ragnarok,2017,"
+
+7.9
+",74        ,130 min,"Action, Adventure, Comedy","748,535"
+77,Edge of Tomorrow,2014,"
+
+7.9
+",71        ,113 min,"Action, Adventure, Sci-Fi","677,280"
+78,Terminator Genisys,2015,"
+
+6.3
+",38        ,126 min,"Action, Adventure, Sci-Fi","279,018"
+79,Captain America: Civil War,2016,"
+
+7.8
+",75        ,147 min,"Action, Adventure, Sci-Fi","784,640"
+80,Lightyear,2022,"
+
+6.0
+",60        ,100 min,"Animation, Action, Adventure","101,544"
+81,Aliens,1986,"
+
+8.4
+",84        ,137 min,"Action, Adventure, Sci-Fi","716,055"
+82,Transformers,2007,"
+
+7.0
+",61        ,144 min,"Action, Adventure, Sci-Fi","637,992"
+83,Starship Troopers,1997,"
+
+7.3
+",51        ,129 min,"Action, Adventure, Sci-Fi","297,148"
+84,Star Wars: Episode IX - The Rise of Skywalker,2019,"
+
+6.5
+",53        ,141 min,"Action, Adventure, Fantasy","449,596"
+85,The Adam Project,2022,"
+
+6.7
+",55        ,106 min,"Action, Adventure, Comedy","198,788"
+86,Terminator 2: Judgment Day,1991,"
+
+8.6
+",75        ,137 min,"Action, Sci-Fi","1,094,465"
+87,2001: A Space Odyssey,1968,"
+
+8.3
+",84        ,149 min,"Adventure, Sci-Fi","667,366"
+88,Star Trek,2009,"
+
+7.9
+",82        ,127 min,"Action, Adventure, Sci-Fi","604,139"
+89,Her,2013,"
+
+8.0
+",91        ,126 min,"Drama, Romance, Sci-Fi","611,842"
+90,Logan,2017,"
+
+8.1
+",77        ,137 min,"Action, Drama, Sci-Fi","759,999"
+91,The Thing,1982,"
+
+8.2
+",57        ,109 min,"Horror, Mystery, Sci-Fi","425,163"
+92,Venom,2018,"
+
+6.6
+",35        ,112 min,"Action, Adventure, Sci-Fi","484,032"
+93,Wonder Woman,2017,"
+
+7.4
+",76        ,141 min,"Action, Adventure, Fantasy","657,190"
+94,Watchmen,2009,"
+
+7.6
+",56        ,162 min,"Action, Drama, Mystery","552,391"
+95,Stargate,1994,"
+
+7.0
+",42        ,116 min,"Action, Adventure, Sci-Fi","192,003"
+96,The Fifth Element,1997,"
+
+7.6
+",52        ,126 min,"Action, Adventure, Sci-Fi","474,426"
+97,E.T. the Extra-Terrestrial,1982,"
+
+7.9
+",91        ,115 min,"Adventure, Family, Sci-Fi","409,835"
+98,Ex Machina,2014,"
+
+7.7
+",78        ,108 min,"Drama, Sci-Fi, Thriller","544,901"
+99,A Quiet Place,2018,"
+
+7.5
+",82        ,90 min,"Drama, Horror, Sci-Fi","527,334"
+100,Under the Skin,2013,"
+
+6.3
+",80        ,108 min,"Drama, Horror, Mystery","145,117"
+101,WarGames,1983,"
+
+7.1
+",77        ,114 min,"Action, Drama, Sci-Fi","101,454"
+102,Idiocracy,2006,"
+
+6.5
+",66        ,84 min,"Adventure, Comedy, Sci-Fi","164,786"
+103,Godzilla vs. Kong,2021,"
+
+6.3
+",59        ,113 min,"Action, Sci-Fi, Thriller","208,763"
+104,The Hunger Games: Catching Fire,2013,"
+
+7.5
+",76        ,146 min,"Action, Adventure, Sci-Fi","664,971"
+105,Vesper,2022,"
+
+6.0
+",70        ,114 min,"Adventure, Drama, Sci-Fi","11,042"
+106,The Munsters,2022,"
+
+4.5
+",57        ,109 min,"Comedy, Family, Fantasy","8,786"
+107,Divergent,2014,"
+
+6.6
+",48        ,139 min,"Action, Adventure, Mystery","461,190"
+108,28 Days Later...,2002,"
+
+7.5
+",73        ,113 min,"Drama, Horror, Sci-Fi","415,779"
+109,Spider-Man: Homecoming,2017,"
+
+7.4
+",73        ,133 min,"Action, Adventure, Sci-Fi","654,129"
+110,Snowpiercer,2013,"
+
+7.1
+",84        ,126 min,"Action, Sci-Fi, Thriller","361,707"
+111,Prometheus,2012,"
+
+7.0
+",64        ,124 min,"Adventure, Mystery, Sci-Fi","610,299"
+112,The Mist,2007,"
+
+7.1
+",58        ,126 min,"Horror, Sci-Fi, Thriller","312,686"
+113,Avengers: Age of Ultron,2015,"
+
+7.3
+",66        ,141 min,"Action, Adventure, Sci-Fi","860,821"
+114,Star Trek Beyond,2016,"
+
+7.0
+",68        ,122 min,"Action, Adventure, Sci-Fi","247,135"
+115,Super Mario Bros.,1993,"
+
+4.1
+",35        ,104 min,"Adventure, Comedy, Family","55,336"
+116,Star Wars: Episode I - The Phantom Menace,1999,"
+
+6.5
+",51        ,136 min,"Action, Adventure, Fantasy","804,272"
+117,Children of Men,2006,"
+
+7.9
+",84        ,109 min,"Action, Drama, Sci-Fi","501,176"
+118,X-Men,2000,"
+
+7.3
+",64        ,104 min,"Action, Adventure, Sci-Fi","616,316"
+119,Star Wars: Episode VII - The Force Awakens,2015,"
+
+7.8
+",80        ,138 min,"Action, Adventure, Sci-Fi","928,696"
+120,Dune,1984,"
+
+6.3
+",41        ,137 min,"Action, Adventure, Sci-Fi","162,591"
+121,Batman v Superman: Dawn of Justice,2016,"
+
+6.4
+",44        ,151 min,"Action, Adventure, Sci-Fi","699,134"
+122,Mr. Nobody,2009,"
+
+7.8
+",63        ,141 min,"Drama, Fantasy, Romance","234,244"
+123,Event Horizon,1997,"
+
+6.6
+",35        ,96 min,"Horror, Sci-Fi, Thriller","182,157"
+124,Captain Marvel,2019,"
+
+6.8
+",64        ,123 min,"Action, Adventure, Sci-Fi","558,477"
+125,Annihilation,2018,"
+
+6.8
+",79        ,115 min,"Adventure, Drama, Horror","326,780"
+126,The Martian,2015,"
+
+8.0
+",80        ,144 min,"Adventure, Drama, Sci-Fi","850,896"
+127,The Fly,1986,"
+
+7.6
+",79        ,96 min,"Drama, Horror, Sci-Fi","184,380"
+128,X-Men: Apocalypse,2016,"
+
+6.9
+",52        ,144 min,"Action, Adventure, Sci-Fi","435,789"
+129,Vanilla Sky,2001,"
+
+6.9
+",45        ,136 min,"Fantasy, Mystery, Romance","268,742"
+130,Weird Science,1985,"
+
+6.6
+",46        ,94 min,"Comedy, Romance, Sci-Fi","90,095"
+131,Jurassic World,2015,"
+
+6.9
+",59        ,124 min,"Action, Adventure, Sci-Fi","642,702"
+132,Doctor Strange,2016,"
+
+7.5
+",72        ,115 min,"Action, Adventure, Fantasy","739,931"
+133,Alita: Battle Angel,2019,"
+
+7.3
+",53        ,122 min,"Action, Adventure, Sci-Fi","268,005"
+134,The Butterfly Effect,2004,"
+
+7.6
+",30        ,113 min,"Drama, Sci-Fi, Thriller","490,391"
+135,El hoyo,2019,"
+
+7.0
+",73        ,94 min,"Horror, Sci-Fi, Thriller","224,732"
+136,Justice League,2017,"
+
+6.1
+",45        ,120 min,"Action, Adventure, Fantasy","452,891"
+137,Predator,1987,"
+
+7.8
+",47        ,107 min,"Action, Adventure, Horror","424,038"
+138,A Quiet Place Part II,2020,"
+
+7.2
+",71        ,97 min,"Drama, Horror, Sci-Fi","226,886"
+139,Spider-Man: Far from Home,2019,"
+
+7.4
+",69        ,129 min,"Action, Adventure, Sci-Fi","489,790"
+140,Venom: Let There Be Carnage,2021,"
+
+5.9
+",49        ,97 min,"Action, Adventure, Sci-Fi","222,876"
+141,Triangle,2009,"
+
+6.9
+",,99 min,"Fantasy, Mystery, Sci-Fi","117,307"
+142,Spider-Man 3,2007,"
+
+6.3
+",59        ,139 min,"Action, Adventure, Sci-Fi","590,421"
+143,WALL·E,2008,"
+
+8.4
+",95        ,98 min,"Animation, Adventure, Family","1,111,455"
+144,RoboCop,1987,"
+
+7.6
+",70        ,102 min,"Action, Crime, Sci-Fi","259,927"
+145,The Empire Strikes Back,1980,"
+
+8.7
+",82        ,124 min,"Action, Adventure, Fantasy","1,286,383"
+146,Passengers,2016,"
+
+7.0
+",41        ,116 min,"Drama, Romance, Sci-Fi","405,921"
+147,Blade,1998,"
+
+7.1
+",47        ,120 min,"Action, Horror, Sci-Fi","276,282"
+148,Batman & Robin,1997,"
+
+3.7
+",28        ,125 min,"Action, Sci-Fi","254,757"
+149,Captain America: The Winter Soldier,2014,"
+
+7.8
+",70        ,136 min,"Action, Adventure, Sci-Fi","843,361"
+150,Independence Day,1996,"
+
+7.0
+",59        ,145 min,"Action, Adventure, Sci-Fi","575,970"
+151,The Lobster,2015,"
+
+7.1
+",82        ,119 min,"Drama, Romance, Sci-Fi","256,794"
+152,Life,2017,"
+
+6.6
+",54        ,104 min,"Horror, Sci-Fi, Thriller","232,222"
+153,Men in Black,1997,"
+
+7.3
+",71        ,98 min,"Action, Adventure, Comedy","568,867"
+154,The Tomorrow War,2021,"
+
+6.5
+",45        ,138 min,"Action, Adventure, Drama","205,401"
+155,Planet of the Apes,1968,"
+
+8.0
+",79        ,112 min,"Adventure, Sci-Fi","181,011"
+156,Limitless,2011,"
+
+7.4
+",59        ,105 min,"Sci-Fi, Thriller","574,461"
+157,Armageddon,1998,"
+
+6.7
+",42        ,151 min,"Action, Adventure, Sci-Fi","427,139"
+158,In Time,2011,"
+
+6.7
+",53        ,109 min,"Action, Sci-Fi, Thriller","412,595"
+159,Star Wars: Episode VI - Return of the Jedi,1983,"
+
+8.3
+",58        ,131 min,"Action, Adventure, Fantasy","1,050,015"
+160,Minority Report,2002,"
+
+7.6
+",80        ,145 min,"Action, Crime, Mystery","552,050"
+161,The New Mutants,2020,"
+
+5.3
+",43        ,94 min,"Action, Horror, Mystery","80,158"
+162,Spider-Man 2,2004,"
+
+7.4
+",83        ,127 min,"Action, Adventure, Sci-Fi","652,279"
+163,Star Wars: Episode VIII - The Last Jedi,2017,"
+
+6.9
+",84        ,152 min,"Action, Adventure, Fantasy","630,405"
+164,Teenage Mutant Ninja Turtles,1990,"
+
+6.7
+",51        ,93 min,"Action, Adventure, Comedy","95,133"
+165,Star Wars: Episode III - Revenge of the Sith,2005,"
+
+7.6
+",68        ,140 min,"Action, Adventure, Fantasy","790,133"
+166,The Faculty,1998,"
+
+6.5
+",61        ,104 min,"Horror, Mystery, Sci-Fi","124,960"
+167,The Amazing Spider-Man,2012,"
+
+6.9
+",66        ,136 min,"Action, Adventure, Sci-Fi","655,796"
+168,The Maze Runner,2014,"
+
+6.8
+",57        ,113 min,"Action, Mystery, Sci-Fi","467,596"
+169,Ant-Man,2015,"
+
+7.3
+",64        ,117 min,"Action, Adventure, Comedy","664,915"
+170,Glass,2019,"
+
+6.6
+",43        ,129 min,"Drama, Horror, Sci-Fi","243,989"
+171,Ant-Man and the Wasp,2018,"
+
+7.0
+",70        ,118 min,"Action, Adventure, Comedy","401,178"
+172,Infinite,2021,"
+
+5.4
+",28        ,106 min,"Action, Sci-Fi, Thriller","50,817"
+173,Underwater,2020,"
+
+5.8
+",48        ,95 min,"Action, Horror, Sci-Fi","83,400"
+174,Frankenstein,1994,"
+
+6.3
+",49        ,123 min,"Drama, Horror, Romance","56,023"
+175,Despicable Me,2010,"
+
+7.6
+",72        ,95 min,"Animation, Adventure, Comedy","547,682"
+176,Face/Off,1997,"
+
+7.3
+",82        ,138 min,"Action, Crime, Sci-Fi","378,579"
+177,The Running Man,1987,"
+
+6.6
+",45        ,101 min,"Action, Sci-Fi, Thriller","154,748"
+178,Transformers: The Last Knight,2017,"
+
+5.2
+",27        ,154 min,"Action, Adventure, Sci-Fi","152,489"
+179,Spy Kids,2001,"
+
+5.6
+",71        ,88 min,"Action, Adventure, Comedy","118,586"
+180,Equilibrium,2002,"
+
+7.3
+",33        ,107 min,"Action, Drama, Sci-Fi","331,926"
+181,Predestination,2014,"
+
+7.4
+",69        ,97 min,"Action, Drama, Sci-Fi","283,893"
+182,Mortal Kombat,2021,"
+
+6.1
+",44        ,110 min,"Action, Adventure, Fantasy","173,274"
+183,They Live,1988,"
+
+7.2
+",55        ,94 min,"Action, Horror, Sci-Fi","131,449"
+184,2012,2009,"
+
+5.8
+",49        ,158 min,"Action, Adventure, Sci-Fi","378,792"
+185,The Invisible Man,2020,"
+
+7.1
+",72        ,124 min,"Drama, Horror, Mystery","228,598"
+186,Bird Box,2018,"
+
+6.6
+",51        ,124 min,"Horror, Mystery, Sci-Fi","341,638"
+187,The Predator,2018,"
+
+5.3
+",48        ,107 min,"Action, Adventure, Sci-Fi","134,506"
+188,The Incredible Hulk,2008,"
+
+6.6
+",61        ,112 min,"Action, Adventure, Sci-Fi","492,917"
+189,John Carter,2012,"
+
+6.6
+",51        ,132 min,"Action, Adventure, Sci-Fi","273,973"
+190,Iron Man 2,2010,"
+
+6.9
+",57        ,124 min,"Action, Adventure, Sci-Fi","815,663"
+191,Green Lantern,2011,"
+
+5.5
+",39        ,114 min,"Action, Adventure, Sci-Fi","286,044"
+192,Iron Man Three,2013,"
+
+7.1
+",62        ,130 min,"Action, Adventure, Sci-Fi","848,115"
+193,Deep Impact,1998,"
+
+6.2
+",40        ,120 min,"Action, Drama, Sci-Fi","179,776"
+194,World War Z,2013,"
+
+7.0
+",63        ,116 min,"Action, Adventure, Horror","666,297"
+195,Total Recall,1990,"
+
+7.5
+",57        ,113 min,"Action, Adventure, Sci-Fi","331,957"
+196,Transformers: Age of Extinction,2014,"
+
+5.6
+",32        ,165 min,"Action, Adventure, Sci-Fi","314,955"
+197,Superman,1978,"
+
+7.4
+",81        ,143 min,"Action, Adventure, Sci-Fi","175,949"
+198,Solo: A Star Wars Story,2018,"
+
+6.9
+",62        ,135 min,"Action, Adventure, Sci-Fi","346,747"
+199,Sonic the Hedgehog,2020,"
+
+6.5
+",47        ,99 min,"Action, Adventure, Comedy","139,903"
+200,The Hunger Games: Mockingjay - Part 2,2015,"
+
+6.5
+",65        ,137 min,"Action, Adventure, Sci-Fi","327,755"
+201,The Lego Movie,2014,"
+
+7.7
+",83        ,100 min,"Animation, Action, Adventure","356,118"
+202,X: First Class,2011,"
+
+7.7
+",65        ,131 min,"Action, Adventure, Sci-Fi","693,087"
+203,Megamind,2010,"
+
+7.3
+",63        ,95 min,"Animation, Action, Comedy","263,375"
+204,Army of the Dead,2021,"
+
+5.7
+",57        ,148 min,"Action, Crime, Horror","172,793"
+205,Alien: Covenant,2017,"
+
+6.4
+",65        ,122 min,"Horror, Sci-Fi, Thriller","282,549"
+206,The Meg,2018,"
+
+5.6
+",46        ,113 min,"Action, Horror, Sci-Fi","172,286"
+207,Terminator: Dark Fate,2019,"
+
+6.2
+",54        ,128 min,"Action, Adventure, Sci-Fi","178,376"
+208,Contact,1997,"
+
+7.5
+",62        ,150 min,"Drama, Mystery, Sci-Fi","275,954"
+209,Escape from New York,1981,"
+
+7.1
+",76        ,99 min,"Action, Adventure, Sci-Fi","143,963"
+211,War of the Worlds,2005,"
+
+6.5
+",73        ,116 min,"Action, Adventure, Sci-Fi","449,830"
+212,Tron,2010,"
+
+6.8
+",49        ,125 min,"Action, Adventure, Sci-Fi","338,350"
+213,The Day After Tomorrow,2004,"
+
+6.4
+",47        ,124 min,"Action, Adventure, Sci-Fi","449,414"
+214,X-Men: Days of Future Past,2014,"
+
+7.9
+",75        ,132 min,"Action, Adventure, Sci-Fi","712,569"
+215,Cloud Atlas,2012,"
+
+7.4
+",55        ,172 min,"Drama, Mystery, Sci-Fi","363,224"
+216,Looper,2012,"
+
+7.4
+",84        ,119 min,"Action, Drama, Sci-Fi","576,483"
+217,Secret Headquarters,2022,"
+
+5.1
+",47        ,104 min,"Action, Adventure, Comedy","4,733"
+218,Ad Astra,2019,"
+
+6.5
+",80        ,123 min,"Adventure, Drama, Mystery","235,940"
+219,Melancholia,2011,"
+
+7.1
+",80        ,135 min,"Drama, Sci-Fi","183,939"
+220,Minions,2015,"
+
+6.4
+",56        ,91 min,"Animation, Adventure, Comedy","239,990"
+221,Pacific Rim,2013,"
+
+6.9
+",65        ,131 min,"Action, Adventure, Sci-Fi","502,777"
+222,District 9,2009,"
+
+7.9
+",81        ,112 min,"Action, Sci-Fi, Thriller","682,072"
+223,Valerian and the City of a Thousand Planets,2017,"
+
+6.4
+",51        ,136 min,"Action, Adventure, Fantasy","182,541"
+224,Lucy,2014,"
+
+6.4
+",61        ,89 min,"Action, Sci-Fi, Thriller","497,180"
+225,Godzilla: King of the Monsters,2019,"
+
+6.0
+",48        ,132 min,"Action, Adventure, Fantasy","183,436"
+226,Twelve Monkeys,1995,"
+
+8.0
+",74        ,129 min,"Mystery, Sci-Fi, Thriller","618,211"
+227,Gattaca,1997,"
+
+7.8
+",64        ,106 min,"Drama, Sci-Fi, Thriller","305,466"
+228,Elysium,2013,"
+
+6.6
+",61        ,109 min,"Action, Drama, Sci-Fi","449,377"
+229,Back to the Future Part II,1989,"
+
+7.8
+",57        ,108 min,"Adventure, Comedy, Sci-Fi","532,641"
+230,Resident Evil: Welcome to Raccoon City,2021,"
+
+5.2
+",44        ,107 min,"Action, Horror, Sci-Fi","53,867"
+231,Gravity,2013,"
+
+7.7
+",96        ,91 min,"Drama, Sci-Fi, Thriller","825,122"
+232,28 Weeks Later,2007,"
+
+6.9
+",78        ,100 min,"Action, Adventure, Horror","278,037"
+233,Spaceballs,1987,"
+
+7.1
+",46        ,96 min,"Adventure, Comedy, Sci-Fi","191,683"
+234,X-Men: The Last Stand,2006,"
+
+6.6
+",58        ,104 min,"Action, Adventure, Sci-Fi","517,982"
+235,Barbarella,1968,"
+
+5.8
+",51        ,98 min,"Adventure, Comedy, Fantasy","35,364"
+236,Brazil,1985,"
+
+7.9
+",84        ,132 min,"Drama, Sci-Fi","201,611"
+237,Titane,2021,"
+
+6.6
+",75        ,108 min,"Drama, Horror, Sci-Fi","45,838"
+238,What Happened to Monday,2017,"
+
+6.8
+",47        ,123 min,"Action, Crime, Fantasy","123,916"
+239,A.I. Artificial Intelligence,2001,"
+
+7.2
+",65        ,146 min,"Drama, Sci-Fi","308,823"
+240,X-Men Origins: Wolverine,2009,"
+
+6.5
+",40        ,107 min,"Action, Sci-Fi","506,119"
+241,Free Birds,2013,"
+
+5.8
+",38        ,91 min,"Animation, Adventure, Comedy","24,483"
+242,The Hunger Games: Mockingjay - Part 1,2014,"
+
+6.6
+",64        ,123 min,"Action, Adventure, Sci-Fi","456,277"
+243,Star Wars: Episode II - Attack of the Clones,2002,"
+
+6.6
+",54        ,142 min,"Action, Adventure, Fantasy","710,196"
+244,Earth Girls Are Easy,1988,"
+
+5.4
+",66        ,100 min,"Comedy, Musical, Romance","23,663"
+245,Mad Max,1979,"
+
+6.8
+",73        ,88 min,"Action, Adventure, Sci-Fi","208,642"
+246,Resident Evil,2002,"
+
+6.6
+",33        ,100 min,"Action, Horror, Sci-Fi","272,697"
+247,Escape Room,2019,"
+
+6.4
+",48        ,99 min,"Action, Adventure, Horror","123,506"
+248,The Amazing Spider-Man 2,2014,"
+
+6.6
+",53        ,142 min,"Action, Adventure, Sci-Fi","498,182"
+249,Close Encounters of the Third Kind,1977,"
+
+7.6
+",90        ,138 min,"Drama, Sci-Fi","202,963"
+250,Journey 2: The Mysterious Island,2012,"
+
+5.7
+",41        ,94 min,"Action, Adventure, Comedy","105,323"
